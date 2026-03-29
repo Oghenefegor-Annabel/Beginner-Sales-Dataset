@@ -1,2 +1,2 @@
 # Beginner-Sales-Dataset
-SET WORKED ON
+Used this data to practice the basics of data analysis using excel
